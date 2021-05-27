@@ -1,0 +1,1005 @@
+@import url("https://p.typekit.net/p.css?s=1&k=hzn4qhc&ht=tk&f=10294.10296.10300.10302.10304.15982.15984.22487&a=15108808&app=typekit&e=css");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.outrectangle {
+  position: relative;
+  height: 728px;
+  width: 1440px;
+  border-radius: 0px;
+  background: #F6F6F6;
+}
+
+#boxshadow {
+  -webkit-box-shadow: 0px 25px 20px rgba(172, 168, 129, 0.2), 0px 10px 20px rgba(197, 202, 209, 0.56);
+          box-shadow: 0px 25px 20px rgba(172, 168, 129, 0.2), 0px 10px 20px rgba(197, 202, 209, 0.56);
+  border-radius: 3px;
+}
+
+.yp {
+  position: absolute;
+  width: 235px;
+  height: 40px;
+  left: 1px;
+  top: 0px;
+  white-space: nowrap;
+  font-family: Brandon Grotesque;
+  font-size: 32px;
+  line-height: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-transform: uppercase;
+  color: 'red';
+}
+
+.line {
+  position: absolute;
+  width: 45px;
+  height: 0px;
+  left: 108px;
+  top: 124px;
+  border: 1px solid #E0E4E8;
+  -webkit-transform: matrix(0, -1, 1, -0.02, 0, 0);
+          transform: matrix(0, -1, 1, -0.02, 0, 0);
+}
+
+.line2 {
+  position: absolute;
+  width: 45px;
+  height: 0px;
+  left: 332px;
+  top: 124px;
+  border: 1px solid #E0E4E8;
+  -webkit-transform: matrix(0, -1, 1, -0.02, 0, 0);
+          transform: matrix(0, -1, 1, -0.02, 0, 0);
+}
+
+.line3 {
+  position: absolute;
+  width: 45px;
+  height: 0px;
+  left: 451px;
+  top: 124px;
+  border: 1px solid #E0E4E8;
+  -webkit-transform: matrix(0, -1, 1, -0.02, 0, 0);
+          transform: matrix(0, -1, 1, -0.02, 0, 0);
+}
+
+.wrapper {
+  position: absolute;
+  width: 1133px;
+  height: 632px;
+  left: calc(50% - 1133px/2 - 0.5px);
+  top: 48px;
+}
+
+.group4 {
+  position: absolute;
+  height: 49px;
+  width: 100px;
+  left: 511px;
+  top: 103px;
+  border-radius: nullpx;
+}
+
+.annual {
+  width: 100px;
+  height: 24px;
+  left: 511px;
+  top: 103px;
+  font-family: Brandon Grotesque;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: capitalize;
+  color: #2D2D2D;
+}
+
+.renewal {
+  width: 100px;
+  height: 21px;
+  left: 511px;
+  top: 131px;
+  font-family: Bitter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 21px;
+  color: #73777C;
+}
+
+.first {
+  position: absolute;
+  width: 148px;
+  height: 30px;
+  left: 80px;
+  top: 16px;
+  white-space: nowrap;
+  font-family: Brandon Grotesque;
+  font-size: 24px;
+  line-height: 30px;
+  color: #2D2D2D;
+}
+
+.thr {
+  position: absolute;
+  width: 263px;
+  height: 30px;
+  left: 80px;
+  top: 16px;
+  font-family: Brandon Grotesque;
+  font-size: 24px;
+  line-height: 30px;
+  white-space: nowrap;
+  color: #2D2D2D;
+}
+
+.second {
+  position: absolute;
+  width: 485px;
+  white-space: nowrap;
+  height: 30px;
+  left: 80px;
+  top: 16px;
+  font-family: Brandon Grotesque;
+  font-size: 24px;
+  line-height: 30px;
+  color: #2D2D2D;
+}
+
+.firstd {
+  position: absolute;
+  width: 805px;
+  height: 21px;
+  left: 81px;
+  top: 50px;
+  font-family: Bitter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.img {
+  position: absolute;
+  width: 197px;
+  height: 104px;
+  left: 910px;
+  top: 32px;
+}
+
+#hr {
+  position: absolute;
+  height: 0px !important;
+  left: 16px;
+  right: 245px;
+  top: 87px;
+  border: 1px solid #E0E4E8;
+}
+
+#hrt {
+  position: absolute;
+  height: 0px;
+  left: 16px;
+  right: 245px;
+  top: 87px;
+  border: 1px solid #E0E4E8;
+}
+
+.ud {
+  width: 805px;
+  height: 21px;
+  left: 81px;
+  top: 50px;
+  font-family: Bitter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  color: #73777C;
+}
+
+.secd {
+  position: absolute;
+  height: 21px;
+  width: 582px;
+  left: 81px;
+  top: 50px;
+  border-radius: nullpx;
+}
+
+.thrd {
+  position: absolute;
+  height: 21px;
+  width: 582px;
+  left: 81px;
+  top: 50px;
+  border-radius: nullpx;
+}
+
+.group1 {
+  position: absolute;
+  width: 95px;
+  height: 46px;
+  left: 17px;
+  top: 103px;
+}
+
+.g11 {
+  width: 95px;
+  height: 24px;
+  left: 17px;
+  top: 103px;
+  font-family: Brandon Grotesque;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2D2D2D;
+}
+
+.g12 {
+  width: 95px;
+  height: 18px;
+  left: 17px;
+  top: 131px;
+  font-family: Bitter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #65737E;
+}
+
+.tstamp1 {
+  width: 198px;
+  height: 24px;
+  left: 144px;
+  top: 103px;
+  font-family: Brandon Grotesque;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2D2D2D;
+}
+
+.tstamp2 {
+  width: 89px;
+  height: 24px;
+  left: 144px;
+  top: 103px;
+  font-family: Brandon Grotesque;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2D2D2D;
+}
+
+.g2 {
+  position: absolute;
+  width: 198px;
+  height: 24px;
+  left: 144px;
+  top: 103px;
+  font-family: Brandon Grotesque;
+  font-size: 16px;
+  line-height: 24px;
+  display: inline-block;
+  white-space: nowrap;
+  color: #2D2D2D;
+}
+
+.g21 {
+  position: absolute;
+  width: 122px;
+  height: 18px;
+  left: 144px;
+  top: 131px;
+  font-family: Bitter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #73777C;
+}
+
+.g22 {
+  position: absolute;
+  width: 89px;
+  height: 24px;
+  left: 144px;
+  top: 103px;
+  font-family: Brandon Grotesque;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2D2D2D;
+}
+
+.g23 {
+  position: absolute;
+  width: 122px;
+  height: 18px;
+  left: 144px;
+  top: 131px;
+  font-family: Bitter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #73777C;
+}
+
+#group3 {
+  position: absolute;
+  width: 112px;
+  height: 46px;
+  left: 367px;
+  top: 103px;
+}
+
+.g31 {
+  width: 100px;
+  height: 24px;
+  left: 367px;
+  top: 103px;
+  font-family: Brandon Grotesque;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2D2D2D;
+}
+
+.g32 {
+  width: 112px;
+  height: 18px;
+  left: 367px;
+  top: 131px;
+  font-family: Bitter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #65737E;
+}
+
+.actives {
+  position: absolute;
+  width: 49px;
+  height: 18px;
+  left: 273px;
+  top: 129px;
+  font-family: Brandon Grotesque;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: right;
+  text-transform: uppercase;
+  color: #00A082;
+}
+
+.icondown {
+  position: absolute;
+  width: 20px;
+  height: 10px;
+  left: 30px;
+  top: 33px;
+  border-radius: 0px;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.iconright {
+  position: absolute;
+  width: 10px;
+  height: 5px;
+  left: 31px;
+  top: 34px;
+  border-radius: 0px;
+}
+
+.iconcircle {
+  border: #FFD200;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 16px;
+  top: 16px;
+  color: #FFD200;
+}
+
+.iconfill {
+  background-color: #FFD200;
+  border: #FFD200;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 16px;
+  top: 16px;
+  color: #FFD200;
+  border-radius: 999px;
+}
+
+.eg {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: 329px;
+  top: 136px;
+  border-radius: 999px;
+  background: #00A082;
+}
+
+.er {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: 329px;
+  top: 138px;
+  border-radius: 999px;
+  background: #FF3200;
+}
+
+.expired {
+  position: absolute;
+  width: 62px;
+  height: 18px;
+  left: 260px;
+  top: 129px;
+  font-family: Brandon Grotesque;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: right;
+  text-transform: uppercase;
+  border-radius: 9px;
+  color: #FF3200;
+}
+
+.g3 {
+  position: absolute;
+  width: 100px;
+  height: 24px;
+  left: 367px;
+  top: 103px;
+  font-family: Brandon Grotesque;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2D2D2D;
+}
+
+.text1 {
+  width: 404px;
+  height: 30px;
+  left: 90px;
+  top: 24px;
+  font-family: 'Brandon Grotesque';
+  font-size: 20px;
+  line-height: 30px;
+  color: #2D2D2D;
+}
+
+@media only screen and (min-width: 375px) and (max-width: 767px) {
+  .outrectangle {
+    position: relative;
+    width: 375px;
+    height: 601px;
+    background: #F6F6F6;
+  }
+  .wrapper {
+    position: absolute;
+    height: 570px;
+    width: 344px;
+    left: 15px;
+    top: 15px;
+    border-radius: 0px;
+  }
+  .yp {
+    position: absolute;
+    width: 147px;
+    height: 30px;
+    left: 1px;
+    top: 0px;
+    font-family: Brandon Grotesque;
+    font-size: 20px;
+    line-height: 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-transform: uppercase;
+    color: #2D2D2D;
+  }
+  .first {
+    position: absolute;
+    height: 30px;
+    left: 16px;
+    right: 16px;
+    top: 16px;
+    width: 311px;
+    border-radius: nullpx;
+    font-family: Brandon Grotesque;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2D2D2D;
+  }
+  .thr {
+    position: absolute;
+    height: 30px;
+    width: 311px;
+    left: 16px;
+    top: 16px;
+    border-radius: nullpx;
+    right: 16px;
+    font-family: Brandon Grotesque;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2D2D2D;
+  }
+  .second {
+    position: absolute;
+    height: 60px;
+    left: 16px;
+    right: 16px;
+    top: 16px;
+    font-family: Brandon Grotesque;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2D2D2D;
+    width: 311px;
+    white-space: normal;
+    border-radius: nullpx;
+  }
+  .firstd {
+    position: absolute;
+    height: 42px;
+    left: 16px;
+    right: 16px;
+    top: 50px;
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    width: 311px;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    color: #73777C;
+  }
+  .secd {
+    position: absolute;
+    height: 21px;
+    left: 16px;
+    right: 16px;
+    top: 80px;
+    /* tertiary - 14px */
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height, or 150% */
+    /* Rolling Stone */
+    width: 311px;
+    border-radius: nullpx;
+    color: #73777C;
+  }
+  .thrd {
+    position: absolute;
+    height: 21px;
+    left: 16px;
+    right: 16px;
+    top: 50px;
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #73777C;
+    width: 311px;
+    border-radius: nullpx;
+  }
+  .g2 {
+    position: absolute;
+    width: 198px;
+    height: 24px;
+    left: 16px;
+    top: 108px;
+    font-family: Brandon Grotesque;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2D2D2D;
+  }
+  .g21 {
+    position: absolute;
+    width: 124px;
+    height: 15px;
+    left: 16px;
+    top: 136px;
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #73777C;
+  }
+  .g22 {
+    position: absolute;
+    width: 198px;
+    height: 24px;
+    left: 16px;
+    top: 107px;
+    font-family: Brandon Grotesque;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2D2D2D;
+  }
+  .g23 {
+    position: absolute;
+    width: 124px;
+    height: 15px;
+    left: 16px;
+    top: 135px;
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #73777C;
+  }
+  .img {
+    height: 44px;
+    width: 84px;
+    left: 243px;
+    top: 108px;
+    border-radius: 0px;
+    position: absolute;
+  }
+  #hr {
+    height: 0px;
+    width: 311px;
+    left: 16px;
+    top: 100px;
+    border-radius: nullpx;
+    position: absolute;
+  }
+  #hrt {
+    position: absolute;
+    width: 311px;
+    height: 0px;
+    left: 16px;
+    top: 89px;
+    border: 1px solid #E0E4E8;
+  }
+  .iconcircle, .iconright, .icondown, .iconfill {
+    visibility: hidden;
+  }
+  .group1, .line {
+    display: none;
+  }
+  .actives {
+    position: absolute;
+    width: 49px;
+    height: 18px;
+    left: 145px;
+    top: 134px;
+  }
+  .expired {
+    position: absolute;
+    width: 59px;
+    height: 18px;
+    left: 135px;
+    top: 126px;
+  }
+  .eg {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 198px;
+    top: 140px;
+  }
+  .er {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 198px;
+    top: 133px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1439px) {
+  .outrectangle {
+    position: relative;
+    width: 768px;
+    height: 668px;
+    background: #F6F6F6;
+  }
+  .wrapper {
+    position: absolute;
+    width: 768px;
+    height: 620px;
+    left: calc(50% - 768px/2);
+    top: 24px;
+  }
+  .yp {
+    position: absolute;
+    width: 206px;
+    height: 35px;
+    left: 24px;
+    top: 0px;
+    font-family: Brandon Grotesque;
+    font-size: 28px;
+    line-height: 35px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-transform: uppercase;
+    color: #2D2D2D;
+  }
+  .first {
+    position: absolute;
+    width: 124px;
+    height: 30px;
+    left: 90px;
+    top: 24px;
+    font-family: Brandon Grotesque;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2D2D2D;
+  }
+  .second {
+    position: absolute;
+    width: 404px;
+    height: 30px;
+    left: 90px;
+    top: 24px;
+    font-family: Brandon Grotesque;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2D2D2D;
+  }
+  .thr {
+    position: absolute;
+    width: 219px;
+    height: 30px;
+    left: 90px;
+    top: 24px;
+    /* Primary - 20px */
+    font-family: Brandon Grotesque;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+    /* Mine Shaft */
+    color: #2D2D2D;
+  }
+  .firstd {
+    position: absolute;
+    height: 21px;
+    width: 421px;
+    left: 90px;
+    top: 58px;
+    border-radius: nullpx;
+  }
+  .secd {
+    position: absolute;
+    height: 21px;
+    width: 247px;
+    left: 90px;
+    top: 58px;
+    border-radius: nullpx;
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #73777C;
+  }
+  .thrd {
+    position: absolute;
+    height: 21px;
+    left: 90px;
+    right: 393px;
+    top: 58px;
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    width: 237px;
+    border-radius: nullpx;
+    color: #73777C;
+  }
+  .img {
+    height: 57px;
+    width: 109px;
+    left: 587px;
+    top: 24px;
+    border-radius: 0px;
+    position: absolute;
+  }
+  #hr {
+    height: 0px;
+    left: 24px;
+    right: 24px;
+    top: 88px;
+    height: 0px;
+    width: 672.0000000000025px;
+    left: 24px;
+    top: 88px;
+    border-radius: nullpx;
+    border: 1px solid #E0E4E8;
+  }
+  #hrt {
+    position: absolute;
+    height: 0px;
+    left: 24px;
+    right: 24px;
+    top: 88px;
+    border: 1px solid #E0E4E8;
+  }
+  .group1 {
+    position: absolute;
+    width: 92px;
+    height: 43px;
+    left: 24px;
+    top: 104px;
+  }
+  .g11 {
+    width: 92px;
+    height: 24px;
+    right: 604px;
+    top: 104px;
+    font-family: Brandon Grotesque;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2D2D2D;
+  }
+  .g12 {
+    width: 85px;
+    height: 15px;
+    right: 611px;
+    top: 132px;
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #65737E;
+  }
+  .g2 {
+    position: absolute;
+    width: 198px;
+    height: 24px;
+    left: 148px;
+    top: 104px;
+    font-family: Brandon Grotesque;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2D2D2D;
+  }
+  .g21 {
+    position: absolute;
+    width: 124px;
+    height: 15px;
+    left: 148px;
+    top: 132px;
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height, or 125% */
+    /* Rolling Stone */
+    color: #73777C;
+  }
+  .g22 {
+    position: absolute;
+    width: 191px;
+    height: 24px;
+    left: 148px;
+    top: 104px;
+    /* Secondary - 16px */
+    font-family: Brandon Grotesque;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    /* Mine Shaft */
+    color: #2D2D2D;
+  }
+  .g23 {
+    width: 124px;
+    height: 18px;
+    left: 148px;
+    top: 132px;
+    /* tertiary - 12px */
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+    /* Rolling Stone */
+    color: #73777C;
+  }
+  .expired {
+    position: absolute;
+    width: 64px;
+    height: 18px;
+    left: 262px;
+    top: 130px;
+    font-family: Brandon Grotesque;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: right;
+    text-transform: uppercase;
+    color: #FF3200;
+  }
+  #group3 {
+    position: absolute;
+    width: 90px;
+    height: 43px;
+    left: 378px;
+    top: 104px;
+  }
+  .g31 {
+    width: 90px;
+    height: 24px;
+    right: 259px;
+    top: 104px;
+    /* Secondary - 16px */
+    white-space: nowrap;
+    font-family: Brandon Grotesque;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    /* Mine Shaft */
+    color: #2D2D2D;
+  }
+  .g32 {
+    width: 90px;
+    height: 18px;
+    right: 259px;
+    top: 132px;
+    font-family: Bitter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #65737E;
+  }
+  .line {
+    position: absolute;
+    width: 45px;
+    height: 0px;
+    left: 118px;
+    top: 124px;
+    border: 1px solid #E0E4E8;
+    -webkit-transform: matrix(0, -1, 1, -0.02, 0, 0);
+            transform: matrix(0, -1, 1, -0.02, 0, 0);
+  }
+  .line2 {
+    position: absolute;
+    width: 45px;
+    height: 0px;
+    left: 342px;
+    top: 124px;
+    border: 1px solid #E0E4E8;
+    -webkit-transform: matrix(0, -1, 1, -0.02, 0, 0);
+            transform: matrix(0, -1, 1, -0.02, 0, 0);
+  }
+  .line3 {
+    position: absolute;
+    width: 43px;
+    height: 0px;
+    left: 460px;
+    top: 126px;
+    border: 1px solid #E0E4E8;
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+  }
+}
+/*# sourceMappingURL=cards.css.map */
