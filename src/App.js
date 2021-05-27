@@ -34,7 +34,7 @@ return (
 <div className="wrapper">
 <div className="yp">YOUR POLICIES</div>
 {insurancePolicy.map(user=>(
-   <Cards user={user} first={first} sec={sec} thr={thr} firstd={firstd}  secd={secd} thrd={thrd}/>
+   <Cards key={user.id} user={user} first={first} sec={sec} thr={thr} firstd={firstd}  secd={secd} thrd={thrd}/>
 ))}
 </div>
  </div>
